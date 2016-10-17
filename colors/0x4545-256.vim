@@ -10,7 +10,7 @@ let g:colors_name="0x4545-256"
 
 hi Normal          ctermfg=none    ctermbg=none    cterm=none
 hi Cursor          ctermfg=255     ctermbg=none    cterm=none
-hi CursorLine      ctermfg=none    ctermbg=none    cterm=none
+hi CursorLine      ctermfg=none    ctermbg=none    cterm=reverse
 hi LineNr          ctermfg=none    ctermbg=none    cterm=none
 hi CursorLineNR    ctermfg=none    ctermbg=none    cterm=none
 hi CursorColumn    ctermfg=none    ctermbg=none    cterm=none

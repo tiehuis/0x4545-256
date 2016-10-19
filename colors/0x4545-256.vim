@@ -66,11 +66,11 @@ hi Tag             ctermfg=none    ctermbg=none    cterm=none
 hi Delimiter       ctermfg=none    ctermbg=none    cterm=none
 hi SpecialComment  ctermfg=8       ctermbg=none    cterm=none
 hi Debug           ctermfg=none    ctermbg=none    cterm=none
-hi PreProc         ctermfg=none    ctermbg=none    cterm=none
+hi PreProc         ctermfg=109     ctermbg=none    cterm=none
 hi Include         ctermfg=none    ctermbg=none    cterm=none
-hi Define          ctermfg=none    ctermbg=none    cterm=none
-hi Macro           ctermfg=none    ctermbg=none    cterm=none
-hi PreCondit       ctermfg=none    ctermbg=none    cterm=none
+hi Define          ctermfg=109     ctermbg=none    cterm=none
+hi Macro           ctermfg=109     ctermbg=none    cterm=none
+hi PreCondit       ctermfg=109     ctermbg=none    cterm=none
 hi Type            ctermfg=none    ctermbg=none    cterm=none
 hi StorageClass    ctermfg=none    ctermbg=none    cterm=none
 hi Structure       ctermfg=none    ctermbg=none    cterm=none

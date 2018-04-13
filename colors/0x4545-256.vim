@@ -23,8 +23,8 @@ hi TabLine         ctermfg=247     ctermbg=none    cterm=reverse
 hi TabLineFill     ctermfg=245     ctermbg=none    cterm=reverse
 hi TabLineSel      ctermfg=255     ctermbg=none    cterm=reverse
 hi Directory       ctermfg=none    ctermbg=none    cterm=none
-hi Search          ctermfg=255     ctermbg=none    cterm=reverse
-hi IncSearch       ctermfg=255     ctermbg=none    cterm=reverse
+hi Search          ctermfg=247     ctermbg=none    cterm=reverse
+hi IncSearch       ctermfg=243     ctermbg=none    cterm=reverse
 hi StatusLine      ctermfg=247     ctermbg=none    cterm=reverse
 hi StatusLineNC    ctermfg=245     ctermbg=none    cterm=reverse
 hi WildMenu        ctermfg=255     ctermbg=none    cterm=reverse

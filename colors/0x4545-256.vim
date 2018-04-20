@@ -18,7 +18,7 @@ hi FoldColumn      ctermfg=none    ctermbg=none    cterm=none
 hi SignColumn      ctermfg=none    ctermbg=none    cterm=none
 hi Folded          ctermfg=none    ctermbg=none    cterm=none
 hi VertSplit       ctermfg=none    ctermbg=none    cterm=none
-hi ColorColumn     ctermfg=none    ctermbg=none    cterm=none
+hi ColorColumn     ctermfg=243     ctermbg=none    cterm=reverse
 hi TabLine         ctermfg=247     ctermbg=none    cterm=reverse
 hi TabLineFill     ctermfg=245     ctermbg=none    cterm=reverse
 hi TabLineSel      ctermfg=255     ctermbg=none    cterm=reverse
